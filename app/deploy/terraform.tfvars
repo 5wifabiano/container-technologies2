@@ -1,5 +1,5 @@
 subnets_id = [
-  "subnet-003fb83e9554aa84e",
-  "subnet-059bdeca048348694",
-  "subnet-0dc58919e17506951"
+  "subnet-04426cd72da399cb0",
+  "subnet-07c41cd4eb33c8904",
+  "subnet-0b92747ceb852366b"
 ]
